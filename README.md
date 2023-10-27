@@ -91,3 +91,4 @@ You will have to connect the cords into the corresponding outlets which should b
 
 # Result:
 ![265330161-efcb02a0-5d34-4df3-a4e7-8d8bbb7ce6dc](https://github.com/BaskaranV15/Assembling_the_system/assets/118703522/23aa850f-7133-4ced-86e2-5aceddb08e67)
+
